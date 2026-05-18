@@ -1,0 +1,13 @@
+# Large data files
+*.npy
+*.h5
+*.pth
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
