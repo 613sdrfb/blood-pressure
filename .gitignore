@@ -11,6 +11,3 @@ __pycache__/
 # IDE
 .vscode/
 .idea/
-
-# 工具配置
-.claude/
